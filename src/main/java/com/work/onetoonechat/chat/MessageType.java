@@ -6,5 +6,5 @@ public enum MessageType {
 
     JOIN,
 
-    LEAVER
+    LEAVE
 }
